@@ -1,4 +1,4 @@
-This repository contains the code for Targeted Bit-Flip Attack (T-BFA). Link to the paper: https://arxiv.org/pdf/2007.12336.pdf More Details: https://dfan.engineering.asu.edu/ai-security/
+This repository contains the code for Targeted Bit-Flip Attack (T-BFA). Link to the paper Which is published in T-PAMI: https://ieeexplore-ieee-org.ezproxy1.lib.asu.edu/document/9540274 More Details: https://dfan.engineering.asu.edu/ai-security/.
 
 
 ## Description
