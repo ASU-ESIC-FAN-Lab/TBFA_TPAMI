@@ -1,4 +1,22 @@
-This repository contains the code for Targeted Bit-Flip Attack (T-BFA). Link to the paper Which is published in T-PAMI: https://ieeexplore-ieee-org.ezproxy1.lib.asu.edu/document/9540274 More Details: https://dfan.engineering.asu.edu/ai-security/.
+This repository contains the code for Targeted Bit-Flip Attack (T-BFA). 
+
+Adnan Siraj Rakin, Zhezhi He, Jingtao Li, Fan Yao, Chaitali Chakrabarti and Deliang Fan, “T-BFA: Targeted Bit-Flip Adversarial Weight Attack,” IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), DOI: 10.1109/TPAMI.2021.3112932 2021
+
+https://ieeexplore.ieee.org/abstract/document/9540274
+
+If you find the code is useful, please cite our work
+
+@article{rakin2021t,
+  title={T-bfa: Targeted bit-flip adversarial weight attack},
+  author={Rakin, Adnan Siraj and He, Zhezhi and Li, Jingtao and Yao, Fan and Chakrabarti, Chaitali and Fan, Deliang},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  volume={44},
+  number={11},
+  pages={7928--7939},
+  year={2021},
+  publisher={IEEE}
+}
+
 
 
 ## Description
