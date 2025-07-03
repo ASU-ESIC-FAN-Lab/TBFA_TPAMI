@@ -5,7 +5,8 @@ Adnan Siraj Rakin, Zhezhi He, Jingtao Li, Fan Yao, Chaitali Chakrabarti and Deli
 https://ieeexplore.ieee.org/abstract/document/9540274
 
 If you find the code is useful, please cite our work
-
+## citation
+```bash
 @article{rakin2021t,
   title={T-bfa: Targeted bit-flip adversarial weight attack},
   author={Rakin, Adnan Siraj and He, Zhezhi and Li, Jingtao and Yao, Fan and Chakrabarti, Chaitali and Fan, Deliang},
@@ -16,7 +17,7 @@ If you find the code is useful, please cite our work
   year={2021},
   publisher={IEEE}
 }
-
+```
 
 
 ## Description
